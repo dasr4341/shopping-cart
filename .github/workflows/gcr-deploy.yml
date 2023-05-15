@@ -8,7 +8,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GCR_PROJECT }}
-  RUN_REGION: global
+  RUN_REGION: asia-east1
   SERVICE_NAME: shopping-cart
 
 jobs:
